@@ -1,2 +1,2 @@
 # Screen-Peeking-Security
-Using face detection and deep learning to create a security interface.
+Part of my Tinkering Lab course project. We use face detection techniques to provide customized levels of security from screen peeking by unauthorized personnel.
