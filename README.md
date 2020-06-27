@@ -4,4 +4,4 @@ Full code available on request.
 
  No intruder                         |                      Intruder starts appearing in field of vision    |              Intruder identified    |
 :-------------------------:|:-------------------------:|
-![](images/1.png?raw=True) |![](images/2.png?raw=true) |![](images/3.png?raw=true) |
+![](demo/1.png?raw=True) |![](demo/2.png?raw=true) |![](demo/3.png?raw=true) |
