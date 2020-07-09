@@ -1,5 +1,5 @@
 # Screen-Peeking-Security
-Part of my Tinkering Lab course project. We use face detection techniques to provide customized levels of security from screen peeking by unauthorized personnel.
+We use face detection techniques to provide customized levels of security from screen peeking by unauthorized personnel.
 Full code available on request.
 
  No intruder                         |                      Intruder starts appearing in field of vision    | Intruder identified |
